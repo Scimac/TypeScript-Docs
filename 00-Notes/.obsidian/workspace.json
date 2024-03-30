@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "a33b915fb4955423",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fdeb8d630b45a49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28232f57c0e5f3d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. Error handling in TS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d605018200928519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Utility Types in TS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c60bd465fec284c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Operations on Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bc8cb530a0b27a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0729ac306712ae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99e38bfec10000da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92bc2786aab7fd6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9939b1ca4b41f4b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4d81a93aef47315",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5b88157c100b8ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3313fbf131b9899",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "08. Operations on Types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f478222d2ced0c50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "08. Operations on Types.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ceeb0046c5906f6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1c13ff366bc2737",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "08. Operations on Types.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c60bd465fec284c7",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "14. Handling Null and Undefined in TS.md",
+    "13. Utility Types in TS.md",
+    "12. Error handling in TS.md",
+    "09. Generics.md",
+    "07. Interfaces and type aliasing.md",
+    "08. Operations on Types.md",
+    "extent.md",
+    "Timeline for learning.md",
+    "10. Type Narrowing.md",
+    "11. Decorators and Mixins.md",
+    "06. Functions in TS.md",
+    "04. Complex Types in TS.md",
+    "05. Objects and Classes in TS.md",
+    "03. Types in TypeScript.md",
+    "02. Setting up the compiler.md",
+    "01. TypeScript - Intro, History, and Advantages.md"
+  ]
+}

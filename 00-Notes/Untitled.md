@@ -1,0 +1,3 @@
+- .d.ts file
+- community maintained project called [Definitely Typed](http://definitelytyped.org/).
+- 

@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7fdeb8d630b45a49",
+        "id": "0b398e9965250080",
         "type": "tabs",
         "children": [
           {
-            "id": "28232f57c0e5f3d8",
+            "id": "1fbb49d549893cc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12. Error handling in TS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d605018200928519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13. Utility Types in TS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c60bd465fec284c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08. Operations on Types.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08. Operations on Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08. Operations on Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "08. Operations on Types.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,15 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c60bd465fec284c7",
+  "active": "1fbb49d549893cc4",
   "lastOpenFiles": [
+    "01. TypeScript - Intro, History, and Advantages.md",
+    "02. Setting up the compiler.md",
+    "08. Operations on Types.md",
     "Untitled.md",
     "14. Handling Null and Undefined in TS.md",
     "13. Utility Types in TS.md",
     "12. Error handling in TS.md",
     "09. Generics.md",
     "07. Interfaces and type aliasing.md",
-    "08. Operations on Types.md",
     "extent.md",
     "Timeline for learning.md",
     "10. Type Narrowing.md",
@@ -187,8 +156,6 @@
     "06. Functions in TS.md",
     "04. Complex Types in TS.md",
     "05. Objects and Classes in TS.md",
-    "03. Types in TypeScript.md",
-    "02. Setting up the compiler.md",
-    "01. TypeScript - Intro, History, and Advantages.md"
+    "03. Types in TypeScript.md"
   ]
 }
